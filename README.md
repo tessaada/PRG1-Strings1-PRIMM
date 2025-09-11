@@ -54,8 +54,6 @@ Strings are sequences of characters, making them perfect for practicing loops wh
 * **MAKE**: Challenge: Use string slicing to create a username.
 * **MAKE**: The format should be: first letter of the first name + entire last name.
 
-
-
 ---
 
 ## Final Reflection 

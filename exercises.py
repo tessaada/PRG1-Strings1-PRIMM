@@ -12,7 +12,7 @@ def print_each_character(text):
 def print_with_positions(text):
     for i in range(len(text)):
         # TODO: Fix this to show position and character together
-        print(text[i])  # Should show something like "0: h"
+        print(f"{i}: {text[i]}")  # Should show something like "0: h"
 
 # MAKE: Count characters without using len()
 def string_length_manual(text):
